@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="cef60956c3e9521072b65375e40131fa" sys_domain="global" table="x_1554378_event_0_registration" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2024-10-31 19:09:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ef60956c3e9521072b65375e40131fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1554378_event_0_registration" name="x_1554378_event_0_registration" sys_domain="global" view="Default view">cef60956c3e9521072b65375e40131fa</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1554378_event_0_registration" sys_domain="global" view="Default view">217241dec3a9521072b65375e401318c</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:09:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2024-10-31 19:09:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9af60956c3e9521072b65375e40131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1554378_event_0_registration" name="x_1554378_event_0_registration" sys_domain="global" view="Default view">cef60956c3e9521072b65375e40131fa</sys_ui_form>
+            <sys_ui_section caption="Requester Data" display_value="Requester Data" name="x_1554378_event_0_registration" sys_domain="global" view="Default view">02f60956c3e9521072b65375e40131fa</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:09:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1554378_event_0_registration</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2024-10-31 19:09:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cef60956c3e9521072b65375e40131fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1554378_event_0_registration</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Event Registration" source="x_1554378_event_0">3941095ec3a9521072b65375e401312a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Event Registration">3941095ec3a9521072b65375e401312a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_cef60956c3e9521072b65375e40131fa</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:09:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

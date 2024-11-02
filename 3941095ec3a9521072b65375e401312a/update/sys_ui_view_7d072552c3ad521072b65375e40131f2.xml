@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>registration_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 21:29:29</sys_created_on>
+        <sys_id>7d072552c3ad521072b65375e40131f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Registration view</sys_name>
+        <sys_package display_value="Event Registration" source="x_1554378_event_0">3941095ec3a9521072b65375e401312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">3941095ec3a9521072b65375e401312a</sys_scope>
+        <sys_update_name>sys_ui_view_7d072552c3ad521072b65375e40131f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 21:29:29</sys_updated_on>
+        <title>Registration view</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1554378_event_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-10-31 18:44:35</sys_created_on>
+        <sys_id>1241095ec3a9521072b65375e40131e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1554378_event_0.user</sys_name>
+        <sys_package display_value="Event Registration" source="x_1554378_event_0">3941095ec3a9521072b65375e401312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">3941095ec3a9521072b65375e401312a</sys_scope>
+        <sys_update_name>sys_user_role_1241095ec3a9521072b65375e40131e1</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-10-31 18:44:35</sys_updated_on>
+    </sys_user_role>
+</record_update>

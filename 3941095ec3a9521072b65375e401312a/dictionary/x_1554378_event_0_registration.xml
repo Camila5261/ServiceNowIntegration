@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="857241dec3a9521072b65375e40131ae" extends="task" label="Registration" max_length="40" name="x_1554378_event_0_registration" type="collection">
+        <element label="Email" max_length="100" name="email" type="string"/>
+        <element label="Event" max_length="32" name="event" reference="x_1554378_event_0_event" type="reference"/>
+        <element label="Full Name" max_length="100" name="full_name" type="string"/>
+        <element choice="2" label="State" max_length="40" name="stat0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approver" value="state"/>
+                <element inactive_on_update="false" label="In Analyse" sequence="0" value="in_analyse"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Reproved" sequence="2" value="reproved"/>
+            </choice>
+        </element>
+    </element>
+</database>
